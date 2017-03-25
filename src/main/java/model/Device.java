@@ -1,4 +1,4 @@
-package main.java.model;
+package model;
 
 /**
  * (c) Swissquote 23.03.17
